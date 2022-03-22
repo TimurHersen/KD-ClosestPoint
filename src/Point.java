@@ -1,6 +1,6 @@
 /*
  * @author
- * Ludvig Warpe, luwa9626
+ * Ludvig Warpe & Timur Hersen
  */
 
 import java.util.Objects;
